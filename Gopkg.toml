@@ -80,3 +80,5 @@
 [prune]
   go-tests = true
   unused-packages = true
+
+metadata.heroku['norsig/statping']
